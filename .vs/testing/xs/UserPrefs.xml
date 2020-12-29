@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AC9E193E-08B3-4583-82F5-F23C953087B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testing/Itest.cs">
+    <Files>
+      <File FileName="testing/Program.cs" Line="1" Column="1" />
+      <File FileName="testing/Itest.cs" Line="18" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testing" expanded="True">
+            <Node name="testing" expanded="True">
+              <Node name="Itest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="testing" expanded="True">
+            <Node name="testing" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
